@@ -1,2 +1,2 @@
-# GenAI using Langchain and HuggingFace
+# GenAI using LangChain and HuggingFace
  Project related to Gen ai
