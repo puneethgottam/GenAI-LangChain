@@ -1,0 +1,16 @@
+sse_starlette
+fastapi
+uvicorn
+langserve
+langchain
+langchain_ollama
+langsmith
+streamlit
+langchain_huggingface
+bs4
+pypdf
+chromadb
+faiss-cpu
+arxiv
+wikipedia
+sentence-transformers
